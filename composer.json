@@ -1,0 +1,48 @@
+{
+  "name": "marketplace/xenforo-ext-thread-starter",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/marketplace-xenforo",
+  "keywords": [
+    "xenforo",
+    "thread",
+    "starter"
+  ],
+  "authors": [
+    {
+      "name": "z1729 Factory",
+      "email": "z1729.factory@gmail.com",
+      "homepage": "https://z1729.com/",
+      "role": "Developer"
+    },
+    {
+      "name": "Yu Dunaev (dun43v)",
+      "email": "dun43v@gmail.com",
+      "homepage": "https://dunaev.dev/",
+      "role": "Developer"
+    },
+    {
+      "name": "Kitsune Solar",
+      "homepage": "https://KitsuneSolar.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/marketplace-xenforo/xenforo-ext-thread-starter/issues",
+    "source": "https://github.com/marketplace-xenforo/xenforo-ext-thread-starter"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_f830d4bf"
+  }
+}
