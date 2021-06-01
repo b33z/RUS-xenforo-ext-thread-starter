@@ -5,8 +5,8 @@
   "version_id": 1000070,
   "version_string": "1.0.0",
   "dev": "z1729 Factory",
-  "dev_url": "https://github.com/marketplace-xenforo/xenforo-ext-thread-starter",
-  "support_url": "https://github.com/marketplace-xenforo/xenforo-ext-thread-starter/issues",
+  "dev_url": "https://github.com/pkgstore/xenforo-ext-thread-starter",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-thread-starter/issues",
   "require": {
     "XF": [
       2010070,
